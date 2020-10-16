@@ -369,3 +369,9 @@ a.hoverline:hover {
     vertical-align: middle;
     display: table-cell;
 }
+
+#contact a:not(.btn-floating) {
+    bottom: 6px;
+    left: 20px;
+    position: relative;
+}
