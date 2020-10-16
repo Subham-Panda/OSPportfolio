@@ -92,6 +92,16 @@ li.logo span {
     font-size: 14px;
 }
 
+.logo-small {
+	height: 150px;
+}
+
+.profile-pic-small {
+	display: block;
+	margin: auto;
+	margin-top: 15px;
+}
+
 /* MAIN */
 
 main {
